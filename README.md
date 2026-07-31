@@ -122,13 +122,13 @@ Add screenshots of:
 
 ## 👩‍💻 Author
 
-**Vaishnavi Borde**
+**Amit Kakde**
 
 - B.E. Computer Science & Data Science
 - Savitribai Phule Pune University (SPPU)
 
 GitHub:
-https://github.com/vaishnavi-borde/library_management_system
+https://github.com/amitkakde1/library_management_system
 
 ---
 
